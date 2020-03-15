@@ -1,4 +1,4 @@
-### R package paredpowR
+### R package pairedpowR
 
 An R package offering basic funcionality regarding the power analysis of matched pairs data.
 Implemented tests are the unpaired and paired difference t-test as well as a modified t-test according to Zimmerman (2012).
